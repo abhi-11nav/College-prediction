@@ -16,3 +16,4 @@ wrapt==1.13.3
 itsdangerous==2.1.1
 virtualenv==2.10.0
 python-dateutil==2.8.2
+pip==21.3.1
