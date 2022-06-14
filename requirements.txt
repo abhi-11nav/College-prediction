@@ -1,5 +1,4 @@
 anaconda-client==1.2.2
-conda==4.3.16
 distlib==0.3.3
 gunicorn==20.1.0
 heroku==0.1.4
